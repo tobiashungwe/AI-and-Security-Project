@@ -1,0 +1,17 @@
+[ 
+    
+    {
+        "model": "cifar10_vgg16_bn",
+        "clean_accuracy": 92.8,
+        "fgsm_accuracy": 45.0,
+        "pgd_accuracy": 4.1,
+        "cw_accuracy": 51.5
+    },
+    {
+        "model": "cifar10_resnet20",
+        "clean_accuracy": 91.7,
+        "fgsm_accuracy": 18.9,
+        "pgd_accuracy": 4.3,
+        "cw_accuracy": 8.1
+    }
+]
